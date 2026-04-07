@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+*.egg-info/
+
+# Virtual env
+.venv/
+venv/
+
+# Training artifacts
+logs/
+models/
+runs/
+
+# OS
+.DS_Store
